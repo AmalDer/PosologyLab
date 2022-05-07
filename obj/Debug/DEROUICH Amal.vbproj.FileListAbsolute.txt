@@ -1,0 +1,30 @@
+C:\Users\amald\source\repos\DEROUICH Amal\bin\Debug\DEROUICH Amal.exe.config
+C:\Users\amald\source\repos\DEROUICH Amal\bin\Debug\DEROUICH Amal.exe
+C:\Users\amald\source\repos\DEROUICH Amal\bin\Debug\DEROUICH Amal.pdb
+C:\Users\amald\source\repos\DEROUICH Amal\bin\Debug\DEROUICH Amal.xml
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH Amal.vbprojAssemblyReference.cache
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH_Amal.Form1.resources
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH_Amal.Form2.resources
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH_Amal.Form3.resources
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH_Amal.Resources.resources
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH Amal.vbproj.GenerateResource.cache
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH Amal.vbproj.CoreCompileInputs.cache
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH Amal.exe
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH Amal.xml
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH Amal.pdb
+C:\Users\amald\source\repos\DEROUICH Amal\obj\Debug\DEROUICH_Amal.Form4.resources
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\bin\Debug\DEROUICH Amal.exe.config
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\bin\Debug\DEROUICH Amal.exe
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\bin\Debug\DEROUICH Amal.pdb
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\bin\Debug\DEROUICH Amal.xml
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH Amal.vbprojAssemblyReference.cache
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH_Amal.Form1.resources
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH_Amal.Form2.resources
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH_Amal.Form3.resources
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH_Amal.Form4.resources
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH_Amal.Resources.resources
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH Amal.vbproj.GenerateResource.cache
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH Amal.vbproj.CoreCompileInputs.cache
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH Amal.exe
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH Amal.xml
+C:\Users\amald\OneDrive\Bureau\DEROUICH_GINF\obj\Debug\DEROUICH Amal.pdb
